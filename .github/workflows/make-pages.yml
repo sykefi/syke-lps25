@@ -17,7 +17,7 @@ jobs:
         with:
           tinytex: false
 
-      - name: create docs
+      - name: create pages
         run: quarto render . --output-dir ../_site
 
       - name: deploy to GitHub pages
@@ -25,6 +25,6 @@ jobs:
         with:
           github_token: ${{ github.token }}
           force_orphan: true
-          publish_dir: ./_docs
+          publish_dir: ./_site
           user_name: github-actions[bot]
           user_email: 41898282+github-actions[bot]@users.noreply.github.com
