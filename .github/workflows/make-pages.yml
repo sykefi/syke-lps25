@@ -1,30 +1,25 @@
-name: Deploy to GitHub Pages
-
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
+  push:
+    branches: main
+
+name: Quarto Publish
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
-    steps: 
-      - name: check out repo
-        uses: actions/checkout@v3
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-        with:
-          tinytex: false
 
-      - name: create pages
-        run: quarto render . --output-dir ../_site
-
-      - name: deploy to GitHub pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Render and Publish
+        uses: quarto-dev/quarto-actions/publish@v2
         with:
-          github_token: ${{ github.token }}
-          force_orphan: true
-          publish_dir: ./_site
-          user_name: github-actions[bot]
-          user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
