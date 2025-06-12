@@ -1,7 +1,7 @@
 ---
 title: "Finnish Environment Institute (Syke) in Living Planet Symposium 2025"
 toc: True
-self-contained: True
+self-contained: False
 ---
 
 Finnish Environment Insitute (Syke) has three presentations and seven posters in [Living Planet Symposium 2025](lps25.esa.int), along with several presentations and posters with Syke as a partner.
