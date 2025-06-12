@@ -253,7 +253,7 @@ The presentation will demonstrate the latest tools and capabilities available in
 
 ::: 
 
-### Lake Ice Monitoring as a Climate Service: Integratin Earth Observation and Stakeholder Feedback
+### Lake Ice Monitoring as a Climate Service: Integrating Earth Observation and Stakeholder Feedback
 
 **Kirsikka Heinilä¹**, Sari Metsämäki¹, Sakari Väkevä¹, Hanna Alasalmi¹, Timo Pyhälahti¹, Jesse Anttila¹, Kari Luojus², Gabriele Schwaizer³
 
