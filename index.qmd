@@ -129,7 +129,6 @@ Affiliations: ¹Finnish Environment Institute (Syke) ²Geological Survey of Finl
 * What: Poster
 * Session: [B.02.05 - Restoring Biosphere Resilience: Transforming Agriculture, Forestry and Other Land Use (AFOLU) from Carbon Source to Sink](https://lps25.esa.int/programme/programme-session/?id=55635FDB-1BD7-496F-97AF-1CC0AC1F3F96)
 
-![](thumbnails/LPS2025_Vakeva_poster_111658KES25.png){.lightbox group="poster-gallery" width=30%}
 
 ::: {.callout appearance="default" collapse=true}
 
