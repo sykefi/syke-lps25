@@ -2,9 +2,17 @@
 title: "Finnish Environment Institute (Syke) in Living Planet Symposium 2025"
 toc: True
 self-contained: False
+lightbox: 
+  match: auto
+  effect: zoom
+  desc-position: bottom
+  loop: true
+format:
+  html:
+    smooth-scroll: true
 ---
 
-Finnish Environment Insitute (Syke) has three presentations and seven posters in [Living Planet Symposium 2025](lps25.esa.int), along with several presentations and posters with Syke as a partner.
+Finnish Environment Insitute (Syke) has four presentations and seven posters in [Living Planet Symposium 2025](lps25.esa.int), along with several presentations and posters with Syke as a partner.
 
 ## Monday 23.6.2025
 
@@ -49,6 +57,7 @@ In most MS, there is willingness to use EO for WFD in the future, but not yet cl
 
 * What: Poster
 * Session: [A.02.02 - Terrestrial and Freshwater Biodiversity](https://lps25.esa.int/programme/programme-session/?id=472D3E0A-EBF2-4748-BAEA-CC2FDCF34239)
+
 
 ::: {.callout appearance="default" collapse=true}
 
@@ -120,6 +129,8 @@ Affiliations: ¹Finnish Environment Institute (Syke) ²Geological Survey of Finl
 * What: Poster
 * Session: [B.02.05 - Restoring Biosphere Resilience: Transforming Agriculture, Forestry and Other Land Use (AFOLU) from Carbon Source to Sink](https://lps25.esa.int/programme/programme-session/?id=55635FDB-1BD7-496F-97AF-1CC0AC1F3F96)
 
+![](thumbnails/LPS2025_Vakeva_poster_111658KES25.png){.lightbox group="poster-gallery" width=30%}
+
 ::: {.callout appearance="default" collapse=true}
 
 #### Show abstract
@@ -148,6 +159,7 @@ Afiiliations: Finnish Environment Institute (Syke)
 
 * What: Poster
 * Session: [D.02.12 - Big-data Driven AI Techniques in Ocean Applications: Enhancing Marine Monitoring and Analysis](https://lps25.esa.int/programme/programme-session/?id=025B8900-934E-4F1F-B563-A4B6B87DE7549)
+
 
 ::: {.callout appearance="default" collapse=true}
 
