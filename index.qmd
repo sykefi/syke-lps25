@@ -57,7 +57,7 @@ In most MS, there is willingness to use EO for WFD in the future, but not yet cl
 
 * What: Poster
 * Session: [A.02.02 - Terrestrial and Freshwater Biodiversity](https://lps25.esa.int/programme/programme-session/?id=472D3E0A-EBF2-4748-BAEA-CC2FDCF34239)
-
+* Where: L09
 
 ::: {.callout appearance="default" collapse=true}
 
@@ -75,6 +75,7 @@ Affiliations:
 
 * What: Poster
 * Session: [A.08.07 - Ocean Health including marine and coastal biodiversity](https://lps25.esa.int/programme/programme-session/?id=D0B6689A-3D89-4950-93C1-CB477ADCB915)
+* Where: I20
 
 ::: {.callout appearance="default" collapse=true}
 
@@ -128,7 +129,7 @@ Affiliations: ¹Finnish Environment Institute (Syke) ²Geological Survey of Finl
 
 * What: Poster
 * Session: [B.02.05 - Restoring Biosphere Resilience: Transforming Agriculture, Forestry and Other Land Use (AFOLU) from Carbon Source to Sink](https://lps25.esa.int/programme/programme-session/?id=55635FDB-1BD7-496F-97AF-1CC0AC1F3F96)
-
+* Where: R08
 
 ::: {.callout appearance="default" collapse=true}
 
@@ -158,7 +159,7 @@ Afiiliations: Finnish Environment Institute (Syke)
 
 * What: Poster
 * Session: [D.02.12 - Big-data Driven AI Techniques in Ocean Applications: Enhancing Marine Monitoring and Analysis](https://lps25.esa.int/programme/programme-session/?id=025B8900-934E-4F1F-B563-A4B6B87DE7549)
-
+* Where: G21
 
 ::: {.callout appearance="default" collapse=true}
 
@@ -247,6 +248,7 @@ Affiliations: ¹ Finnish Environment Institute (Syke)
 
 * What: Poster
 * Session: [D.05.01 - Showcasing EO Data and Information Services](https://lps25.esa.int/programme/programme-session/?id=90B14AEE-5466-4A04-8728-82BD35C7A882)
+* Where: V10
 
 ::: {.callout appearance="default" collapse=true}
 
@@ -272,6 +274,7 @@ Affiliations: ¹Finnish Environment Institute (Syke) ²Finnish Meteorological In
 
 * What: Poster
 * Session: [A.05.02 - Earth observation for Climate Services](https://lps25.esa.int/programme/programme-session/?id=86A896F5-3E68-41F9-8E24-C6DF4C2431E9)
+* Where: C19
 
 ::: {.callout appearance="default" collapse=true}
 
@@ -285,7 +288,6 @@ Through the Horizon 2020 Arctic PASSION project, Syke has developed the Lake Ice
 
 By integrating state-of-the-art EO technologies with stakeholder-driven design, the Lake Ice Service exemplifies how EO-based climate services can bridge the gap between scientific knowledge and actionable insights for decision-making. This presentation will focus on showcasing the development of the lake ice service and Copernicus lake ice products, highlighting their important role in supporting EO-based climate services and their contribution to advancing global climate services
 
-
 :::
 
 ### Validation of Copernicus High Resolution Snow Products
@@ -296,6 +298,7 @@ Affiliations: ¹Finnish Environment Institute (Syke) ²NORCE Norwegian Research 
 
 * What: Poster
 * Session: [A.05.02 - Earth observation for Climate Services](https://lps25.esa.int/programme/programme-session/?id=86A896F5-3E68-41F9-8E24-C6DF4C2431E9)
+* Where: C20
 
 ::: {.callout appearance="default" collapse=true}
 
