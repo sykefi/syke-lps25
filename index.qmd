@@ -155,7 +155,7 @@ We will showcase the types of EO data analyzed and incorporated in catchment-sca
 
 **Janne Mäyrä¹**, Elina A. Virtanen¹, Markku Viitasalo¹
 
-Afiiliations: Finnish Environment Institute (Syke)
+Affiliations: Finnish Environment Institute (Syke)
 
 * What: Poster
 * Session: [D.02.12 - Big-data Driven AI Techniques in Ocean Applications: Enhancing Marine Monitoring and Analysis](https://lps25.esa.int/programme/programme-session/?id=025B8900-934E-4F1F-B563-A4B6B87DE7549)
